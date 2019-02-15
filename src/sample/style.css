@@ -1,0 +1,21 @@
+.Togle_Caption {
+    -fx-background-color: white;
+    -fx-font-weight: bold;
+}
+.wrap_pane {
+    -fx-border-color: blue;
+    -fx-background-color: white;
+}
+
+.table-row-cell:selected {
+    -fx-background-color: lightblue;
+}
+.table-row-cell:selected .text {
+    -fx-fill: Blue ;
+
+}
+
+.table-row-cell {
+    -fx-background: white ;
+}
+
